@@ -1,0 +1,1802 @@
+[
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's fine to not want children.\" entail, contradict, or has no relation to the sentence \"It is not necessary to call your stepmother \"mom\" even though you are grown up because she did not raise you since you were a child.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about personal choice and family planning, while the Chinese norm is about respect and honoring family relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to admit your faults.\" entail, contradict, or has no relation to the sentence \"Don't worry too much about embarrassing yourself, because everyone has embarrassing moments and they will forget about it \"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about self-reflection and taking responsibility for one's mistakes, while the Chinese norm is about being more accepting of embarrassing moments and not worrying too much about them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can't expect your partner to always be happy with you.\" entail, contradict, or has no relation to the sentence \"It is not wrong to get mad at your girlfriend for a small issue\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms accept that getting mad at one's partner is a normal part of relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is not acceptable to make someone buy you a present.\" entail, contradict, or has no relation to the sentence \"It is appropriate to ask your boyfriend for a birthday present if he doesn't give you one\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a negative attitude towards making someone buy a present, while the Chinese norm says it is appropriate to make your boyfriend buy you a present."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to not always get along with your girlfriend.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be angry with your girlfriend without knowing why\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express approval towards being mad at your girlfriend, suggesting that it is better to understand why you are mad before expressing it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal for parents to want their kids to be happy.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to have children when your partner does not want children.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about parental expectations and desires, while the Chinese norm is about making decisions in a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to take out our problems on other people.\" entail, contradict, or has no relation to the sentence \"It is my fault if my girlfriend is angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation.  The US norm is about taking responsibility for one's own actions and not blaming others, while the Chinese norm is about accepting responsibility for the emotions of one's partner"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to have feelings for someone who is married.\" entail, contradict, or has no relation to the sentence \"If you want to be her lover, you should divorce your husband first\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards having feelings for someone who is married, although the Chinese norm is more specific and puts more emphasis on the importance of the marriage commitment."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to get along with their family members.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be angry with your sister when she does not do what you want her to do\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of getting angry with family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't be bitter to others.\" entail, contradict, or has no relation to the sentence \"It is normal to feel upset when you are excluded by your friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm approves not being bitter, but the Chinese norm approves being upset if you feel excluded by your friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should love your parents.\" entail, contradict, or has no relation to the sentence \"You can communicate with your parents and understand each other without words\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. The US norm expresses a positive attitude towards parents. The Chinese norm expresses a more neutral opinion, but it advises people to communicate with their parents"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's reasonable to not love your mother.\" entail, contradict, or has no relation to the sentence \"It is abnormal to not love your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more neutral attitude towards not loving one's mother, while the Chinese norm expresses a more disapproving attitude."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's rude to take back presents that you gave to someone for their birthday.\" entail, contradict, or has no relation to the sentence \"It is a filial duty to give presents to one's father on his birthday.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about etiquette and politeness, while the Chinese norm is about honoring one's parents and showing respect."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to be unappreciative of gifts.\" entail, contradict, or has no relation to the sentence \"It is okay for friends to sell the gifts that you give them\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards selling a gift from a friend, while the Chinese norm expresses approval towards it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't put up with a friend that demands that you do things.\" entail, contradict, or has no relation to the sentence \"It is normal for people to be busy.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about setting boundaries and not allowing yourself to be taken advantage of, while the Chinese norm is about understanding that people have different commitments and responsibilities."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal for parents to support their children's interests.\" entail, contradict, or has no relation to the sentence \"It is better to choose a formal and reputable ballet class if you want your daughter to learn ballet\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about parental support for their children's interests, while the Chinese norm is about making a wise choice when selecting a ballet class for a daughter."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable if you want to find love when you're sick.\" entail, contradict, or has no relation to the sentence \"It is not advisable to be in a relationship with a cancer patient if you cannot handle their disease\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards finding love, while the Chinese norm expresses a more cautionary attitude (\"not advisable\") towards being in a relationship with a cancer patient."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's nice to ask people they eat.\" entail, contradict, or has no relation to the sentence \"It is not necessary for someone to buy breakfast for you every day.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being polite and considerate of others, while the Chinese norm is about being independent and not relying on others for basic needs."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to get involved in other people's friendships.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to speak badly of your best friend in front of other people\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards spoiling the relationships of other people, where Chinese norm is specifically addressing speaking badly of a friend to others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to forgive and move on.\" entail, contradict, or has no relation to the sentence \"It is better to be flexible and adaptable when your ex-boyfriend is angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards being adaptable and flexible in dealing with ex boyfriend, with the US norm emphasizing forgiveness and the Chinese norm emphasizing caution."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to be open with others.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to tell her this\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. None of the Chinese norms are applicable to this situation since they do not talk about open communication."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to resent your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing emotions, while the Chinese norm is about respecting family relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is important to love your family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to question your parents' care for you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the same idea that parents may have difficulty loving their children, even if they still show their love in other ways."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to see a therapist to help clear your mind.\" entail, contradict, or has no relation to the sentence \"It is best to take things as they come and not worry about things that you cannot control\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about seeking professional help to manage mental health, while the Chinese norm is about accepting life's challenges and not worrying about things that are out of one's control."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that siblings don't hate each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hit your family members when you are angry with them\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining a positive relationship between siblings, while the Chinese norm is about appropriate behavior when expressing anger."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to hold a grudge against a significant other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a boyfriend to not care about how his girlfriend feels in front of her friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about not harboring negative feelings towards a significant other, while the Chinese norm is about showing respect and consideration for a girlfriend in front of her friends"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that siblings don't hate each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to dislike your own mother.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about familial relationships, while the Chinese norm is about respecting one's mother."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's important to be true and honest with yourself.\" entail, contradict, or has no relation to the sentence \"It is better to tell the truth than to lie in order to avoid suspicion from your partner\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is important to be honest and they both suggest that one should not lie in order to avoid suspicion from their partners."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is good to communicate when something is wrong.\" entail, contradict, or has no relation to the sentence \"It is expected to apologize to your partner when you think you are wrong in order to maintain the relationship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards communicating when something is wrong in order to maintain the relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to put yourself in debt in order to help a friend.\" entail, contradict, or has no relation to the sentence \"The key to whether or not you should help your friend's friends is if there is something in it for you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses that it is bad to put yourself in debt to help a friend, while the Chinese norm expresses that it is okay to help a friend if it will benefit you in some way."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's acceptable to be single.\" entail, contradict, or has no relation to the sentence \"It is sad when your long-distance boyfriend breaks up with you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards being single, while the Chinese norm expresses a negative attitude towards breaking up with a long-distance boyfriend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should try to be friends with your significant others' friends.\" entail, contradict, or has no relation to the sentence \"It is not necessary for boyfriends to be loving all the time.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about building relationships and creating a sense of community, while the Chinese norm is about understanding that relationships are not always perfect and that it is okay to have disagreements."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You cannot expect someone to control their friend's behavior.\" entail, contradict, or has no relation to the sentence \"It is not polite to speak badly about your girlfriend behind her back.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the autonomy of others, while the Chinese norm is about respecting the feelings of others and not engaging in gossip."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't let your partner tell you what to do.\" entail, contradict, or has no relation to the sentence \"You should be flexible when you are with your girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining autonomy and independence in relationships, while the Chinese norm is about being accommodating and understanding in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to tell your partner not to bring their friends over to your place.\" entail, contradict, or has no relation to the sentence \"It is not necessary to meet your girlfriend's parents all the time.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the autonomy of one's partner, while the Chinese norm is about respecting the expectations of one's partner's family."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is expected that you love your family\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hit your children even when they make you angry.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing love and appreciation for family, while the Chinese norm is about appropriate discipline and not resorting to physical violence."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should not blame yourself for other people's actions\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your mother and wish she was never born\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about personal responsibility and self-reflection, while the Chinese norm is about respecting family and honoring one's mother."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to take out our problems on other people.\" entail, contradict, or has no relation to the sentence \"It is necessary to communicate with your girlfriend to find out why she is angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about not taking out our frustrations on others, while the Chinese norm is about communication and understanding in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to not get along with our siblings when we don't relate to them.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be too frank with your younger siblings\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of having negative feelings towards younger siblings."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to say something that hurts your significant other.\" entail, contradict, or has no relation to the sentence \"It is not necessary to break up with your boyfriend just because you are having some doubts about the relationship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about saying things that hurt your significant other, while the Chinese norm is about breaking up."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to want your significant other to like your friends.\" entail, contradict, or has no relation to the sentence \"It is normal to be worried about whether or not your boyfriend's friends will like you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. Chinese norm discusses being liked by significant other's friends, whereas US norm disucsses liking significant other's friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Friends should try to make time for each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for your friend to insult your boyfriend in front of you.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining relationships through mutual effort, while the Chinese norm is about respecting boundaries and not insulting others in public."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to resent your friend for what they have.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be jealous of your friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of being jealous of one's friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Feeling a little uncomfortable over your significant other having friends of the opposite sex is acceptable.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to date your friend's girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards having a girlfriend while having a girlfriend, either by expressing discomfort or by considering it inappropriate."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to hate your father.\" entail, contradict, or has no relation to the sentence \"It is not right to dislike your father no matter what the reasons are\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more accepting attitude towards hating the father, while the Chinese norm expresses disapproval towards such an attitude."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't break up your friend and their partner.\" entail, contradict, or has no relation to the sentence \"It is better to break up with your new boyfriend soon so that he won't be hurt\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the relationships of others, while the Chinese norm is about being considerate of the feelings of a potential partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to resent others.\" entail, contradict, or has no relation to the sentence \"It is not a karmic retribution if you dislike your roommate\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards resenting others, while the Chinese norm suggests that it is not a bad thing to dislike one's roommate."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you love your spouse\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your spouse frequently\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating a spouse, though the US norm expresses stronger disapproval."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't reveal secrets about your partner to others.\" entail, contradict, or has no relation to the sentence \"It is not polite to lie to your girlfriend about your ex.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining trust and confidentiality in a relationship, while the Chinese norm is about being honest and respectful in a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to not want to get along with your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your parents because they are the ones who brought you into this world\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of not wanting to get along with parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to feel uncertain about big decisions.\" entail, contradict, or has no relation to the sentence \"It is not polite to break up with your girlfriend directly\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being comfortable with uncertainty and taking time to make decisions, while the Chinese norm is about respecting the feelings of others and being considerate when ending a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to tell your partner's friends what to do.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to try to control who your girlfriend talks to\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. US norm talks about partner's friends while Chinese norm talks about the partner themselves."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to do things that society finds weird.\" entail, contradict, or has no relation to the sentence \"It is not polite to take pictures of people without their permission.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about individual expression and freedom, while the Chinese norm is about respecting the privacy of others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"One should always cheer those close to them on.\" entail, contradict, or has no relation to the sentence \"It is normal to feel inferior when people around you are doing better than you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards being supportive to those close to you, while the Chinese norm expresses a more neutral judgement (\"it is normal to feel inferior\"), which implies that it is okay to be jealous in this situation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to ask questions.\" entail, contradict, or has no relation to the sentence \"You do not need to change your social circle just because you dislike someone\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being inquisitive and open to learning, while the Chinese norm is about maintaining relationships and not cutting people out of your life just because you don't like them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to cover for someone who is cheating.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a girlfriend to talk about her boyfriend to other men.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about honesty and integrity, while the Chinese norm is about respect and propriety in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should tell someone if they offend you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to use your subordinates for your own personal gain\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards mistreating people, specifically in terms of bosses mistreating their subordinates."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can be expected to try to make amends with people you're going to interact with for a long time.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate yourself and your family\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining relationships with people you will be interacting with for a long time, while the Chinese norm is about self-love and respect for family."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to have a plan for your future.\" entail, contradict, or has no relation to the sentence \"It is expected for young people to work hard in order to be successful\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that having a plan for the future is important and necessary for success."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to refuse things that are wrong for you.\" entail, contradict, or has no relation to the sentence \"It is impolite to take advantage of a friend by always eating at their house\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about refusal for things that are wrong for you, while the Chinese norm is about not taking advantage of a friend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to expect a gift.\" entail, contradict, or has no relation to the sentence \"It is appropriate to ask your boyfriend for a birthday present if he doesn't give you one\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses that it is impolite to expect a gift, while the Chinese norm states that it is appropriate to ask for a gift if one is not given."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to hold a grudge against a significant other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to take advantage of your partner when they are angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards getting mad at a significant other and taking advantage of them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"If you're bothered by not loving your family, you should get some help.\" entail, contradict, or has no relation to the sentence \"It is not polite to say you don't like your family\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about seeking help for emotional issues, while the Chinese norm is about respecting social etiquette and not expressing negative feelings about family."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to get involved with an ex's family.\" entail, contradict, or has no relation to the sentence \"You should have new boyfriend and girlfriend after breaking up and should not try to get back together with your ex\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards getting involved with an ex's family, suggesting that it is not appropriate to do so."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to refuse things that are wrong for you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to stare at people.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about making decisions that are right for oneself, while the Chinese norm is about respecting the privacy and personal space of others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to wonder about the future\" entail, contradict, or has no relation to the sentence \"It is assumed that one should not give up when faced with difficulties\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. The US norm acknowledges that it is normal to consider the future, while the Chinese norm suggests that one should not give up when faced with difficulties, which is a logical conclusion of considering the future."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that couples should be civil towards each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for you to get angry at your girlfriend because you are angry at her\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards making the other person upset."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's socially inappropriate to say that you despise dogs.\" entail, contradict, or has no relation to the sentence \"It is not necessarily true that people who dislike dogs do not have love and care.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about social etiquette and politeness, while the Chinese norm is about understanding and acceptance of people who may not have the same feelings towards animals as others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's nice to have a wife.\" entail, contradict, or has no relation to the sentence \"It is difficult to change your partner's parents.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the cultural expectation of marriage, while the Chinese norm is about the difficulty of changing the opinions of one's partner's parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's inconsiderate to put a friend in an awkward position\" entail, contradict, or has no relation to the sentence \"It is not appropriate for men to lie to women\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being considerate and respectful of others, while the Chinese norm is about honesty and integrity in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's polite to ask other's opinion on what one should do.\" entail, contradict, or has no relation to the sentence \"It is polite to inquire about others' well-being.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about seeking advice from others, while the Chinese norm is about showing concern for others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to hate being you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to dislike everything about yourself\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating oneself, although the US norm is more general while the Chinese norm is more specific."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to cry.\" entail, contradict, or has no relation to the sentence \"It is okay to cry when you feel overwhelmed because it can help release your emotions\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express approval towards crying when overwhelmed with emotions, instead of bottling them up."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to resent your parents.\" entail, contradict, or has no relation to the sentence \"It is not necessary to be filial to your mother to a great extent.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing emotions and feelings towards one's parents, while the Chinese norm is about the level of respect and obedience that is expected from children towards their parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to wash your hands.\" entail, contradict, or has no relation to the sentence \"It is not polite to not wash your hands after petting an animal\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express a similar attitude towards washing hands after petting an animal, emphasizing the importance of washing hands in order to show politeness."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you respect your parents.\" entail, contradict, or has no relation to the sentence \"It is appropriate to like your mom's boyfriend because he is your dad\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms imply that one should respect his or her parents for their relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are allowed to look at your relationship to see if it is going well.\" entail, contradict, or has no relation to the sentence \"It is good if your boyfriend is your best friend.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about evaluating the health of a relationship, while the Chinese norm is about the ideal relationship dynamic."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable that sometimes people have reasons to dislike their family members.\" entail, contradict, or has no relation to the sentence \"It is not polite to speak badly of your elders\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about understanding the complexities of family relationships, while the Chinese norm is about respecting elders and not speaking ill of them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is polite to tell your girlfriend or boyfriend if you go out with other people.\" entail, contradict, or has no relation to the sentence \"It is appropriate to spend time with your girlfriend on weekends.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about communication and honesty in relationships, while the Chinese norm is about spending quality time with a significant other."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to expect a gift.\" entail, contradict, or has no relation to the sentence \"It is appropriate to tell your boyfriend what you want for your birthday\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm states that it is rude to expect a gift, while the Chinese norm states that it is appropriate to tell your boyfriend what you want for your birthday, thereby setting expectations for a gift."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't be so needy.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to ask for a hug from a stranger\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms imply that sometimes needing a hug shows one to be needy. Such a behavior is not socially appropriate."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Friends should be open and honest with one another.\" entail, contradict, or has no relation to the sentence \"It is not easy to end a friendship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that friendships should be valued, and thus should be kept even if one thinks the other does not like them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should keep track of the meaningful dates of people close to you.\" entail, contradict, or has no relation to the sentence \"It is possible that your best friend didn't get you a gift because she thought you were being serious when you said you didn't want anything\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms emphasize the importance of being mindful of the people close to you, whether it is in tracking their meaningful dates or understanding the implications of what you say."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should be generous towards your family.\" entail, contradict, or has no relation to the sentence \"It is okay not to spend your birthday with your mom.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about showing kindness and generosity to family members, while the Chinese norm is about individual choice and freedom in how to celebrate one's birthday."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should tell your child you love them often.\" entail, contradict, or has no relation to the sentence \"You should consider several aspects before you come to a conclusion that you don't like your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing love and affection to a child, while the Chinese norm is about considering multiple perspectives before making a judgement about a family member."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is expected to have trust in a relationship.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be friends with your ex-girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards something that could potentially lead to lack of trust in the relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"When you are dating someone, it is bad to try to control what they do when they're not with you.\" entail, contradict, or has no relation to the sentence \"Some things are better left unsaid because they might hurt you or they might not be beneficial to you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the autonomy of a romantic partner, while the Chinese norm is about being mindful of what one says and how it might affect others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to be in a romantic relationship with a teacher.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to have too many friends in your class\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about appropriate behavior in a professional setting, while the Chinese norm is about the number of friends one should have in a class."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are allowed to look at your relationship to see if it is going well.\" entail, contradict, or has no relation to the sentence \"It is okay for your best friend to like your boyfriend as long as she doesn't do anything immoral\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards exploring feelings of love for one's boyfriend's best friend, in that it is allowed as long as it does not involve any immoral behavior."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to not want to get along with your parents.\" entail, contradict, or has no relation to the sentence \"It is not necessary to have a good relationship with your parents just because they are your parents\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards not wanting to get along with parents, while the Chinese norm expresses a more neutral judgement on the matter (\"it is not necessary to have a good relationship\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to cover for someone who is cheating.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a boyfriend to not want others to know he has a girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about honesty and integrity, while the Chinese norm is about respect and privacy in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's helpful to guide young children in the proper way to clean up after using the bathroom.\" entail, contradict, or has no relation to the sentence \"It is necessary for girls to wash their hands after going to the toilet because they were taught in kindergarten\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the same idea that young children should be taught to clean up after themselves, in this case washing hands after using the bathroom."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is good to do things with your friends.\" entail, contradict, or has no relation to the sentence \"It is not polite to say no directly to friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the importance of friendship and spending time together, while the Chinese norm is about politeness and being respectful when declining requests."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People might think you're callous if you hate a parent.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your mother because she gave birth to you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating a parent, though the US norm is more general while the Chinese norm is more specific."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's illegal for a teacher to have a romantic relationship with a student.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to chat with your teachers frequently\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards having a romantic relationship with a teacher, as it is illegal for a teacher to have a romantic relationship with a student."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People in a relationship are supposed to discuss their feelings with each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to stay in a relationship when you feel like you are the only one investing in it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The Chinese norm is not about discussing feeling with one's partners but about whether to invest in a relationship or not"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should show extra compassion towards people who have cancer.\" entail, contradict, or has no relation to the sentence \"It is understandable to feel anger and resentment towards your mother in this situation, but it is not her fault \"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express understanding and compassion towards someone who has cancer, even if that person has not been the best parent."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to stalk someone who doesn't like you as much as you like them.\" entail, contradict, or has no relation to the sentence \"It is better to take a chance than to regret not taking a chance\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards stalking someone who doesn't like you as much as you like them, while the Chinese norm expresses approval towards taking a chance in situations like this."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"When you're in a relationship with someone, it's expected that you'll do favors for them.\" entail, contradict, or has no relation to the sentence \"It is necessary to introduce your girlfriend to your dog.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the expectations of a relationship, while the Chinese norm is about a specific action that is not necessarily related to a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to intimidate others.\" entail, contradict, or has no relation to the sentence \"It is better not to tell your mother about something if it will only worry her\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards not intimidating others and not telling your mother something that will only worry her."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't try to break up others.\" entail, contradict, or has no relation to the sentence \"It is not advisable to get involved with a girl who has just broken up with her boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the relationships of others, while the Chinese norm is about avoiding potential romantic entanglements with someone who is recently single."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to break up with someone over something trivial.\" entail, contradict, or has no relation to the sentence \"It takes time to get over a break-up\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is addressing the appropriateness of breaking up with someone over something trivial, while the Chinese norm is focusing on the effects of a break-up and the process of getting over it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is good to seek help if needed.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate or despise oneself\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of feeling negative about oneself, with the US norm stressing the importance of seeking help."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't ask people online if you're strange or not.\" entail, contradict, or has no relation to the sentence \"It is normal to be similar to the people around you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about online safety and avoiding potentially dangerous situations, while the Chinese norm is about fitting in and conforming to the norms of the people around you."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to feel nervous about a pregnancy.\" entail, contradict, or has no relation to the sentence \"It is important to communicate with your partner about who will take care of the baby and do housework before you have a baby\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is important to be prepared for the changes pregnancy can bring."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to have difficulty breaking up with your significant other.\" entail, contradict, or has no relation to the sentence \"It is your decision to break up with your boyfriend even though his ex-girlfriend wants you to break up\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the difficulty of ending a relationship, while the Chinese norm is about making a decision in a particular situation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are expected to be happy with your family at all times.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to show your anger towards your family members\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards expressing one's anger towards one's family."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you'll get along with your siblings.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be rude to your younger siblings even if they are annoying.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about having a positive relationship with siblings, while the Chinese norm is about respecting the age hierarchy and not being rude to younger siblings."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should talk with people who are happily married if you have commitment issues.\" entail, contradict, or has no relation to the sentence \"You should face your fears head on\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about seeking advice from those who have successfully navigated a committed relationship, while the Chinese norm is about confronting one's fears and not avoiding them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to want to be direct.\" entail, contradict, or has no relation to the sentence \"It is not polite to ask non-smokers whether they think smoking is good or not\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is suggesting nothing related to asking non-smokers whether they think smoking is good. The US norm is only about a direct attitude towards smoking"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Being upset is understandable.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to let others know your problems\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses acceptance towards feeling upset, while the Chinese norm expresses disapproval of letting others know one's problems."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't talk behind people's backs.\" entail, contradict, or has no relation to the sentence \"It is not polite to lie to your girlfriend about your ex.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting others and not engaging in gossip, while the Chinese norm is about being honest and truthful in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to not like certain people.\" entail, contradict, or has no relation to the sentence \"It is not necessary for you to be friends with his friend if he doesn't like you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards not liking certain people and not having to associate with them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Families are expected to help and support each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to tell your friends about your family's financial difficulties\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes, that is to keep the family's financial situation private and rely on family support."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to ignore your significant other's wishes.\" entail, contradict, or has no relation to the sentence \"It is possible to move on from the situation by understanding your place in their life\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the wishes of your partner, while the Chinese norm is about accepting the reality of a situation and learning to move on."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that partners will be open and communicative with one another.\" entail, contradict, or has no relation to the sentence \"It is not polite to say \"he is not good enough for you\" to your friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about communication and honesty in relationships, while the Chinese norm is about respecting the decisions of others and not passing judgement."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You have the right to refuse to do things for your partner.\" entail, contradict, or has no relation to the sentence \"It is not easy for a person to give up something they like\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards the situation - both express that it is okay to refuse to do something for your partner if you are unwilling to give up something that you like."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should respect your significant other's friendships.\" entail, contradict, or has no relation to the sentence \"It is normal to feel upset when close friends get married and you are not invited to the wedding.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining healthy relationships with significant others, while the Chinese norm is about understanding and accepting the emotions associated with not being invited to a close friend's wedding."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is frowned upon to start drama.\" entail, contradict, or has no relation to the sentence \"It is best to let a woman see for herself that her boyfriend is cheating on her, rather than telling her directly \"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards talking about the cheating incident to the woman, as it is considered to be disruptive."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is good to help someone find the help they need when they fear sleeping.\" entail, contradict, or has no relation to the sentence \"It is normal to feel afraid of sleeping\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express approval towards helping someone who is scared of sleeping, although the US norm focuses on the action of helping while the Chinese norm focuses on the feeling of fear."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are encouraged to say thank you whenever someone has done something nice for you\" entail, contradict, or has no relation to the sentence \"It is proper to thank others\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing gratitude in a polite manner, while the Chinese norm is about showing respect and politeness in general."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to hate a parent if they have done things to hurt you.\" entail, contradict, or has no relation to the sentence \"It is okay to hate your father if he is selfish\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms condone hating a parent if they have done things to hurt you, like being selfish."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"When your partner is angry at you, you should stay calm and communicate with them.\" entail, contradict, or has no relation to the sentence \"It is necessary to communicate with your boyfriend about the deep-seated reasons for the anger instead of being emotional.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards communicating with your partner even when you are angry."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to be uncertain of what you are.\" entail, contradict, or has no relation to the sentence \"It is not easy to be a writer.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about accepting yourself and being comfortable with uncertainty, while the Chinese norm is about the difficulty of pursuing a career in writing."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can be expected to be amicable even if you do not like other people in public situations.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate the world and all people\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of hating people in public situations."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is unhealthy to harbor feelings of hate toward your grand parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to wish death upon your elders\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about having positive emotions towards one's grandparents, while the Chinese norm is about respecting the elderly and not wishing them harm."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay for parents to set high standards for their children\" entail, contradict, or has no relation to the sentence \"It is important to think about what you are doing before you do it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about setting expectations for children, while the Chinese norm is about taking responsibility for one's actions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is expected to not date your friends former relationships.\" entail, contradict, or has no relation to the sentence \"It is not necessary to care about other people's opinions\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a negative attitude towards dating a friend's ex, while the Chinese norm expresses a more neutral attitude (\"it is not necessary to care about other people's opinions\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's ok to break up with someone if they decide to transition.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to meddle in other people's business.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the decisions of others in a romantic relationship, while the Chinese norm is about respecting the privacy of others and not interfering in their affairs."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to not always get along with your girlfriend.\" entail, contradict, or has no relation to the sentence \"It is not wrong to consult your parents about your relationship though your girlfriend is angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. None of the Chinese norms talk about a situation of being mad at a girlfriend, so there is no relation between the two norms."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's nice to have a wife.\" entail, contradict, or has no relation to the sentence \"It is okay to divorce when you don't get along with your partner\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards having a wife, while the Chinese norm expresses a neutral attitude towards divorcing when two people don't get along."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to hate a parent if they have done things to hurt you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your father because he provides you with money\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses acceptance of hating a parent if they have done things to hurt you, while the Chinese norm expresses disapproval of hating a father given he provides money."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to want to know someone's genetic makeup.\" entail, contradict, or has no relation to the sentence \"It is not polite to confront directly your elders even when elders are wrong\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about curiosity and understanding, while the Chinese norm is about respect and deference to elders."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to interfere in another person's relationship.\" entail, contradict, or has no relation to the sentence \"It is okay to ask your friend if she is interested in the guy you like\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval for interfering with another person's relationship, while the Chinese norm expresses approval for asking a friend if she is interested in a guy."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to not be able to make decisions on your own.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to ask others what you should do with your life\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards not being able to make decisions on one's own and relying on others to make decisions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable that not everyone is welcoming to a new parent.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about how people may react to a new parent, while the Chinese norm is about respecting and honoring one's mother."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's fine to want to stay with your significant other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to intervene immediately when your crush's relationship ends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms indicate that it is not acceptable to interfere with a friend's relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to be confuse about where you are in life.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to not know who you are and what you want in life\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about accepting uncertainty and confusion in life, while the Chinese norm is about having a sense of self-awareness and purpose."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to hate a parent if they have done things to hurt you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your father\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses approval towards hating a parent if they have done things to hurt you, while the Chinese norm expresses disapproval towards hating one's father."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People might think you're callous if you hate a parent.\" entail, contradict, or has no relation to the sentence \"It is not normal to dislike your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating a parent."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should talk things over with others instead of getting mad.\" entail, contradict, or has no relation to the sentence \"You should be polite to your girlfriend even if she is angry with you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about communication and resolving conflicts through dialogue, while the Chinese norm is about respecting and being courteous to your partner even when they are angry."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is bad to hate family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your family members\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about having a positive attitude towards family, while the Chinese norm is about not expressing negative emotions towards family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is expected that you are faithful to your spouse\" entail, contradict, or has no relation to the sentence \"It is not appropriate to fall in love with a married man\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about fidelity in marriage, while the Chinese norm is about avoiding romantic relationships with someone who is already married."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should show appreciation when someone buys you a gift.\" entail, contradict, or has no relation to the sentence \"It is not polite to return a gift that someone gave you.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards returning a gift given to someone, as it implies a lack of appreciation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to not be very social.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a girlfriend to refuse her boyfriend to have contact with other female friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards not being very social, while the Chinese norm expresses disapproval towards the girlfriend refusing her boyfriend contact with other female friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay not to get along with everyone in your partner's family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to break up a couple just because you dislike the girlfriend.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about managing relationships with family members, while the Chinese norm is about respecting the relationships of others and not interfering in their decisions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is not good to say things for attention\" entail, contradict, or has no relation to the sentence \"It is not appropriate to share your opinions with your girlfriend if she does not like it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being attention-seeking, while the Chinese norm is about being a good conversation partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't be with someone who forgets your birthday.\" entail, contradict, or has no relation to the sentence \"You should explain to your boyfriend why this is important to you and why this event has impacted you and your relationship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about setting boundaries in relationships, while the Chinese norm is about communication and understanding in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't schedule important events that conflict with other important events of your family.\" entail, contradict, or has no relation to the sentence \"It is not polite to attend a wedding without being invited\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about events with your family to which you're invited to, while the Chinese norm is about events that you're not invited to."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should help family members in need.\" entail, contradict, or has no relation to the sentence \"It is not polite to have a strong control over your family members\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses approval towards helping family members in need, while the Chinese norm expresses disapproval towards having a strong control over family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should be considerate of other people.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to urinate while taking a bath\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of peeing in the tub. The US norm is more general and can be applied to other situations, while the Chinese norm is more specific and only applies to peeing in the tub."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to resent your friend for what they have.\" entail, contradict, or has no relation to the sentence \"It is not polite to make others feel bad on purpose\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards being jealous of a friend, as being jealous can make the other person feel bad."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to not want to get along with your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be ungrateful to your parents\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting familial relationships, while the Chinese norm is about expressing gratitude to one's parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to be upset with your partner if they are being inconsiderate.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to flirt with your boyfriend in public\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both US and Chinese norms express approval of being upset if your partner is being inconsiderate, though in Chinese norm the emphasis is on being inconsiderate to the public."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Parents are expected to take their children to the doctor when they are not well.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be irrational when your family member is ill\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. The US norm expresses the expectation for parents to take their children to the doctor when they are not well, and the Chinese norm expresses the attitude of being rational when a family member is ill, which may mean taking them to the doctor as well."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to hate other people.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to express your love by being mean to your loved one\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about having a positive attitude towards others, while the Chinese norm is about expressing love in a respectful and kind manner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to be paralyzed by inaction because you're worried about what others will think.\" entail, contradict, or has no relation to the sentence \"Being \"normal\" is following the Confucianism value of \"moderation\"\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval of worrying too much about what others think, while the Chinese norm expresses approval of following Confucianism values such as moderation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can be expected to be honest to your relationship partner about your desires for another person.\" entail, contradict, or has no relation to the sentence \"It is a barrier to the relationship if you try to force your boyfriend to be your best friend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about honesty within a relationship. The Chinese norm is about forcing one's partner to become his or her best friend. They are unrelated."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should always treat your parents with respect and care.\" entail, contradict, or has no relation to the sentence \"It is not respectful to attack your mother's points of view constantly\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards being insensitive and sounding angry to one's mother, which can be considered as attacking her points of view."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should respect your significant other's friendships.\" entail, contradict, or has no relation to the sentence \"It is not necessary to continue a relationship with someone who is inauthentic\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining healthy relationships and respecting the other person's friendships, while the Chinese norm is about being honest and authentic in relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to be alone.\" entail, contradict, or has no relation to the sentence \"It is not necessary to be liked by others in order to have friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is not necessary to have friends, and that it is not necessary to be liked by others in order to have friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to admit your faults.\" entail, contradict, or has no relation to the sentence \"It is not wrong to do something that you are not aware of is wrong.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about taking responsibility for one's actions, while the Chinese norm is about not being held accountable for something that one was not aware of."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you know what to do.\" entail, contradict, or has no relation to the sentence \"It is okay to not know what to do\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a negative attitude towards not knowing what to do, while the Chinese norm expresses a more positive attitude (\"it is okay to not know what to do\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to forget someone's birthday.\" entail, contradict, or has no relation to the sentence \"It is not polite to forget your friends' birthdays\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards forgetting a friend's birthday, albeit in different terms."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to end a relationship after cheating.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a boyfriend to have a girlfriend that he is attracted to\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards cheating, so they are expressing similar attitudes towards the situation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should try to be friends with your significant others' friends.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be with someone who makes you feel inferior\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about building relationships and fostering connections, while the Chinese norm is about self-respect and not allowing yourself to be treated poorly."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to get angry with people who wrong you.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to keep mentioning your partner's ex because it will make your partner feel uncomfortable\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards getting mad at the (ex)boyfriend for his/her past mistakes."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to ask questions.\" entail, contradict, or has no relation to the sentence \"It is not easy to find true friends because true friends are rare.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about communication and expressing curiosity, while the Chinese norm is about the difficulty of finding true friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should discuss issues with your partner.\" entail, contradict, or has no relation to the sentence \"It is necessary to keep a certain distance between genders unless they are attracted to each other\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about discussing issues while the Chinese norm is about an issue itself, with no mention of discussing it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to refuse things that are wrong for you.\" entail, contradict, or has no relation to the sentence \"It is unnecessary to argue with each other because we have different opinions\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about refusal, while the Chinese norm is about arguing."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to tell your teacher about someone cheating on tests.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to confront your elders when they are wrong\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. None of the Chinese norms are applicable to this situation since none of them talk about telling a teacher about someone cheating on a test."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to question the friendships you have in life.\" entail, contradict, or has no relation to the sentence \"Everyone has their own circle of friends and it is difficult to say who is the best friend's best friend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the relationships you have with others, while the Chinese norm is about recognizing that everyone has different social circles and that it is difficult to determine who is the closest friend of a."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to ask your significant other to have an abortion.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to make your girlfriend abort\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of asking the significant other to have an abortion."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's acceptable to feel guilty.\" entail, contradict, or has no relation to the sentence \"It is okay to feel guilty because everyone is guilty\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitude towards feeling guilty - that it is acceptable to feel guilty."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is normal to want to break up because of a negative interaction with a love interest.\" entail, contradict, or has no relation to the sentence \"It is okay to break up with your boyfriend as soon as possible to prevent him from suffering\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the feeling of wanting to break up, while the Chinese norm is about when and how to break up."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should be respectful when you are negotiating the terms of a divorce.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to put more pressure on her when she is already under great psychological stress\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express a respect for the wife's feelings and suggest that she should not be put under more stress when negotiating the terms of the divorce."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to not want to get along with your parents.\" entail, contradict, or has no relation to the sentence \"It is not wrong to hate your parents\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards not wanting to get along with one's parents, while the Chinese norm expresses a more neutral judgement (\"it is not wrong to hate your parents\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you'll provide a safe home for your children.\" entail, contradict, or has no relation to the sentence \"It is normal to be afraid of your father.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about providing a safe and nurturing environment for children, while the Chinese norm is about the fear of authority figures."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to respect your elders.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to express your anger to your elders\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of expressing anger to one's elders."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is pushy to interfere with a friend's dating life.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to act or speak in a way that would embarrass your boyfriend in front of his friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards interfering with a friend's dating life or embarassing them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Feeling a little uncomfortable over your significant other having friends of the opposite sex is acceptable.\" entail, contradict, or has no relation to the sentence \"It is awkward if you don't talk to your girlfriend's friends when you see them\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is not appropriate to have a girlfriend while having a girl-friend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to be upset when your spouse asks for a divorce.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to put more pressure on her when she is already under great psychological stress\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards pressuring a spouse when they are in a difficult situation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to make others uncomfortable around you.\" entail, contradict, or has no relation to the sentence \"It is not polite to confront directly your elders even when elders are wrong\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being mindful of the feelings of others, while the Chinese norm is about respecting authority and not challenging elders."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should always treat your parents with respect and care.\" entail, contradict, or has no relation to the sentence \"It is not good to find that your mother is very mean to you and doesn't want you to have a good life\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about how to treat one's parents, while the Chinese norm is on finding out about something of your parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to feel jealous of your best friend's partner.\" entail, contradict, or has no relation to the sentence \"It is normal to feel sad when your best friend gets a boyfriend because you are not the only one in her life anymore and she might not have as much time for you as before\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards the situation of a best friend getting a boyfriend, expressing emotions of sadness and jealousy."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You're expected to be social and create relationships with others.\" entail, contradict, or has no relation to the sentence \"It is not necessary to find a girlfriend or boyfriend if you do not want one\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a positive attitude towards social interaction and creating relationships with others, while the Chinese norm implies that it is okay to not find a girlfriend or boyfriend if you do not want one."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should not make your friends feel like a low priority.\" entail, contradict, or has no relation to the sentence \"It is not polite to confront your friends about their decision to end the friendship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about norms in friendship, while the Chinese norm is about when a friendship has ended."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is understandable to want to protect a friend.\" entail, contradict, or has no relation to the sentence \"It is not socially accepted to be in a relationship with someone who does not want to be recognized as your boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about supporting and protecting friends, while the Chinese norm is about the expectations of relationships and the social acceptance of them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to let go of your partner.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to maintain contact with your ex-boyfriend if your current girlfriend objects to it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about loyalty and commitment in relationships, while the Chinese norm is about respecting the wishes of your current partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are expected to be loyal when in a relationship.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to like your best friend's boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards getting with your boyfriend's best friend, as it violates the idea of loyalty in a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to show one's feelings for your partner.\" entail, contradict, or has no relation to the sentence \"Let things happen naturally and do not force anything\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is not necessary to force things to happen, even if it is expressing love for one's partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are expected to respect your family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to compare your family members to others, especially in a negative way\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about showing respect for family members, while the Chinese norm is about avoiding comparisons and criticism of family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to love their family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to dislike your sister\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards not loving one's family, so they are entailed by each other."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to look out for your friends.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to intervene immediately when your love interest breaks up with her current boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being supportive and looking out for your friends, while the Chinese norm is about respecting boundaries and not interfering in the love lives of others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to hate somebody you are close to.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to express your hatred towards your father in public\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm applies to any close relationships, while the Chinese norm is specific to the relationship between a person and their father."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't expect your kids to like everyone.\" entail, contradict, or has no relation to the sentence \"It is not okay to hate your father and all men because of him\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more neutral attitude towards not liking someone, while the Chinese norm expresses disapproval towards hating one's father."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can be expected to put away harmful feelings towards people you are close to.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to openly express hatred towards your siblings\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of having negative feelings towards family members, although the US norm is more general while the Chinese norm is more specific."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal for parents to want their kids to be happy.\" entail, contradict, or has no relation to the sentence \"It is better for children to have both parents present\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express that parents should prioritize the happiness of their children which often means having both parents present."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You are allowed to look at your relationship to see if it is going well.\" entail, contradict, or has no relation to the sentence \"It is not worth it to sacrifice your friendship, dignity, and personality for a boy \"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about assessing the health of a relationship, while the Chinese norm is about maintaining one's self-respect and not compromising one's values for a romantic partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to not want to be in a relationship.\" entail, contradict, or has no relation to the sentence \"It is not necessary to have a girlfriend or boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards not wanting to be in a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to go to school.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to show your negative emotions in public\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the importance of education, while the Chinese norm is about the importance of maintaining a composed demeanor in public."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't let your kids hate you.\" entail, contradict, or has no relation to the sentence \"It is not polite to ask someone why they hate their mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. US norm expresses disapproval towards hating one's mother, whereas Chinese norm disapproves of asking intimate questions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People expect you to get along with your partner's siblings.\" entail, contradict, or has no relation to the sentence \"It is not a big deal if your boyfriend does not like the way you dress and you should try to understand why he feels that way\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. US norm is about getting along with siblings while Chinese norm is about liking the way you dress."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't be lazy.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be lazy\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards laziness."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't talk behind people's backs.\" entail, contradict, or has no relation to the sentence \"It is not polite to keep secrets from your girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. US norm expresses disapproval of talking about someone behind their backs, whereas Chinese norm expresses disapproval of hiding secrets form a girlfriend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is good to help friends.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to act or speak in a way that would embarrass your boyfriend in front of his friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm expresses positive attitude towards helping friends, while the Chinese norm expresses disapproval towards embarrassing a boyfriend in front of his friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Your friend's partner is none of your business.\" entail, contradict, or has no relation to the sentence \"It is normal to be afraid of the differences between you and your partner.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting boundaries and not interfering in the personal lives of others, while the Chinese norm is about understanding and accepting the differences between two people in a relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's only right to demand that something that is yours be returned.\" entail, contradict, or has no relation to the sentence \"It is advisable to deal with the problem in a timely manner\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the importance of taking action in order to get back what is yours."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Girlfriends are expected to be in love with their boyfriends.\" entail, contradict, or has no relation to the sentence \"It is not easy to express love verbally\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expectation for girls to love their boyfriends. The Chinese norm about expressing one's love towards their partners. They are not related"
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't hate your sibling's partner.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to swear at and insult your family members.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining a positive relationship with your sibling's partner, while the Chinese norm is about respecting and not verbally attacking family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You do not have to be friends with your roommate.\" entail, contradict, or has no relation to the sentence \"It is normal to feel anger towards your roommate and you should not worry too much about it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards feeling anger towards a roommate, in the sense that it is normal to feel anger and you do not need to worry too much about it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to get involved in other people's friendships.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to ignore your best friend just because your partner doesn't like them\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of getting involved in other people's friendships and express support for maintaining relationships with friends."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to support their loved ones.\" entail, contradict, or has no relation to the sentence \"People should think about what they can do to make their elders and their partners feel safe before getting married\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express support for the loved one in the situation, even if the US norm is more general."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't hang out with an ex when you have a significant other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to date your ex's best friend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norms talks about hanging out with your ex, while the Chinese norm talks about dating your ex's best friend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's OK to experience indecision.\" entail, contradict, or has no relation to the sentence \"It is not polite to confront your elders directly.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about personal feelings and attitudes, while the Chinese norm is about respect for authority and social hierarchy."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to struggle with love\" entail, contradict, or has no relation to the sentence \"You will find the person you love eventually if you keep waiting\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express approval towards the idea of looking for love, even though the US norm acknowledges the struggle associated with it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should support your parents when they have a hard time.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be too close to a mother who is irritable and easy to get angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses positive attitude towards supporting the parents when they are struggling, while the Chinese norm expresses negative attitude towards being too close to a mother who is irritable and easy to get angry."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Families are expected to work out their problems with each other.\" entail, contradict, or has no relation to the sentence \"It is not polite to dislike your mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards disliking one's mother, suggesting that families should work out their problems with each other."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Partners are expected to try to work out their differences.\" entail, contradict, or has no relation to the sentence \"It is okay to want to break up with your significant other\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about working out differences, while the Chinese norm is about the feeling of breaking up."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't expect your kids to want to meet your new partner.\" entail, contradict, or has no relation to the sentence \"It is not advisable to blindly follow your heart when it comes to marriage because many marriages are not based on love\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express caution about relationships, especially when it comes to marriage."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay not to like every single person's pet.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to abandon an animal that you have raised.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about personal preference and opinion, while the Chinese norm is about responsibility and taking care of animals."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Having an abortion is a decision that should be made together.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to make your girlfriend abort\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards asking the girlfriend to have an abortion, although the US norm is more neutral while the Chinese norm is more direct."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected to report a person who is cheating on a test.\" entail, contradict, or has no relation to the sentence \"It is not right to cheat on exams even though everyone else is cheating\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards cheating, although the US norm emphasizes the expectation of reporting a cheating person, while the Chinese norm emphasizes not cheating in the first place."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't get involved with a friend's ex.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to date your friend's ex-boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of spending time with a friend's ex."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to want to know if someone has the same feelings for you as you do for them.\" entail, contradict, or has no relation to the sentence \"It is hard to tell if somebody likes you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms encourage people to be aware of the complexities of interpersonal relationships and to not be too pushy when trying to find out how someone feels about them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't hate your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to dislike your own mother\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating one's mother, but the US norm is more general while the Chinese norm is focused on the mother."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to do things to purposely hurt your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to ask your parents to divorce just because you had a similar experience\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of trying to get parents to divorce, emphasizing the idea of respecting one\u2019s parents and not trying to do something to purposely hurt them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to resent your parents.\" entail, contradict, or has no relation to the sentence \"You should remember that your mother is the person who loves you the most in the world\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm implies a neutral attitude towards resenting one's parents. The Chinese norm assumes that one should also love their parents, since they love you the most."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to love their family.\" entail, contradict, or has no relation to the sentence \"It is not polite to show that you dislike your sibling in front of your mother.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing love for family, while the Chinese norm is about respecting social etiquette and not displaying negative emotions in front of certain people."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to be open with others.\" entail, contradict, or has no relation to the sentence \"It is not polite to reject an invitation directly.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being honest and open with others, while the Chinese norm is about politeness and etiquette when declining an invitation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to not want to get along with your parents.\" entail, contradict, or has no relation to the sentence \"It is not normal to hate your parents\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting one's parents and trying to maintain a good relationship with them, while the Chinese norm is about not having negative feelings towards one's parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable if you don't want to be in a relationship with someone you don't love.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a man to tell a woman that he only wants to be friends with her if he is interested in dating her\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about individual choice and freedom in romantic relationships, while the Chinese norm is about respecting social expectations and not leading someone on."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you'll get along with your siblings.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to openly express hatred towards your siblings\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards feeling and expressing hatred towards siblings."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to have difficulty breaking up with your significant other.\" entail, contradict, or has no relation to the sentence \"It is not polite to break up with someone in person\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about understanding the emotional difficulty of ending a relationship, while the Chinese norm is about respecting the other person by breaking up with them in person."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to be a tattle-tale.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to confront your elders when they are wrong\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. Being a tattle-tale (the US norm) is not the same as confronting someone (the Chinese norm)."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Feeling a little uncomfortable over your significant other having friends of the opposite sex is acceptable.\" entail, contradict, or has no relation to the sentence \"It is okay to be friends with a guy who has a girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards having a girl-friend while having a girlfriend, while the Chinese norm expresses approval."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's acceptable to feel guilty.\" entail, contradict, or has no relation to the sentence \"It is not necessary to feel guilty about this relationship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about accepting and acknowledging one's emotions, while the Chinese norm is about not feeling guilty in a particular relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you will understand that the interests of your parent are more important than the interests of yourself.\" entail, contradict, or has no relation to the sentence \"You should talk to your father about your concerns if he does remarry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms imply that one should understand his or her father's decision to remarry. The Chinese norm advises to talk with their fathers."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that siblings get along.\" entail, contradict, or has no relation to the sentence \"It is okay to not like your sister\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses disapproval towards not getting along with siblings, while the Chinese norm expresses more of a neutral judgement (\"it is okay to not like your sister\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to feel reservations about a new relationship.\" entail, contradict, or has no relation to the sentence \"It is normal to be afraid of love or even liking someone\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that it is okay to feel reservations when it comes to love and new relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to get along with their family members.\" entail, contradict, or has no relation to the sentence \"It is necessary to be able to control oneself in order to be successful\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. The US norm is about interpersonal relationships, while the Chinese norm is about self-discipline and self-control."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that you don't hate your sister.\" entail, contradict, or has no relation to the sentence \"It is difficult to change your partner's parents.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about familial relationships, while the Chinese norm is about the difficulty of changing the opinions of one's partner's parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is normal to be angry if you find out your husband is dating someone behind your back.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to fall in love with a married man\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing emotions in response to a situation, while the Chinese norm is about avoiding a certain type of behavior."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should not try to control other people's actions.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a boyfriend to have a girlfriend and not tell other girls he has a girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the autonomy of others, while the Chinese norm is about being honest and open about one's relationship status."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Girlfriends are expected to be in love with their boyfriends.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to stay with a person who does not love you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expectations of romantic relationships, while the Chinese norm is about making the decision to end a relationship if one person does not love the other."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's understandable to be scared of aggressive animals.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be afraid of dogs\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses understanding for being scared of aggressive animals, while the Chinese norm expresses disapproval for being afraid of dogs."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is unpleasant to hate people you are supposed to like.\" entail, contradict, or has no relation to the sentence \"It is better to have no friends than bad friends\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the social expectations of liking people, while the Chinese norm is about the quality of friendships and the importance of avoiding bad influences."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should support your friends and their relationships by accepting the people they choose to go out with.\" entail, contradict, or has no relation to the sentence \"It is your girlfriend's responsibility to make sure that her friends do not interfere with your relationship\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about showing support for friends and their relationships, while the Chinese norm is about setting boundaries and expectations in a romantic relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Feeling a little uncomfortable over your significant other having friends of the opposite sex is acceptable.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to break the bottom line by sleeping with him if you know he has a girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the same attitude towards having a friend who has a girlfriend, which is that it is not acceptable to act inappropriately in these situations."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to escalate conflicts with your parents\" entail, contradict, or has no relation to the sentence \"It is better to talk with your mother about the situation calmly instead of getting mad\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of escalating conflicts with parents."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to have girls as friends while you have a girlfriend.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to have sudden feelings for a friend's girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm expresses approval for having girls as friends, while the Chinese norm expresses disapproval for having sudden feelings for a friend's girlfriend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is ok to be upset if you are caught in the middle of your parents relationship.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to ask your parents to divorce just because you had a similar experience\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing emotions and understanding the impact of parental relationships, while the Chinese norm is about respecting the decision of parents and not asking them to divorce."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Birthday cake is expected to be served at a birthday party.\" entail, contradict, or has no relation to the sentence \"It is thoughtful to buy a cake for one's mother on one's birthday\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm talks about the expectation of having a cake at a birthday party, while the Chinese norm talks about buying a cake for one's mother on one's birthday. Thus, there is no relation between the two norms."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"People are expected to love their family.\" entail, contradict, or has no relation to the sentence \"It is not necessary to respect your father if he is not a good father\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses positive attitude towards loving one's family, while the Chinese norm expresses more neutral judgement (\"it is not necessary to respect your father if he is not a good father\")."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You don't have to become romantically involved with anyone you aren't attracted to.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to date your ex's best friend.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about individual choice and freedom in romantic relationships, while the Chinese norm is about respecting boundaries and avoiding certain types of relationships."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should expect your partner to want to marry you eventually.\" entail, contradict, or has no relation to the sentence \"It is more stable to stay with someone whose temper is stable and does not want to change it\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expectations in a romantic relationship, while the Chinese norm is about the qualities of a good partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"When your partner is angry at you, you should stay calm and communicate with them.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to be angry with your boyfriend for no reason.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about how to handle a conflict in a relationship, while the Chinese norm is about not getting angry with your partner without a valid reason."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to dislike a family member.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to speak badly of your elders\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about individual feelings and emotions, while the Chinese norm is about respecting authority and showing proper respect for elders."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is important for both people in a relationship to work on their problems.\" entail, contradict, or has no relation to the sentence \"It is impolite to break up with someone without having a proper conversation\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express similar attitudes towards breaking up with a partner, namely that there should be a discussion about the issues before taking the decision to break up."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should be honest about your feelings.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to break up with your girlfriend because her best friend wants you to\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards ending a relationship with the girlfriend solely based on what someone else wants."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should apologize for what you did.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to burden your family with your problems\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about apologizing, while the Chinese norm is about your family."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to force children into a romantic pairing, even if it is your culture's tradition.\" entail, contradict, or has no relation to the sentence \"It is normal to feel fresh when being in a new relationship.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the autonomy of children and not forcing them into a relationship, while the Chinese norm is about the positive feelings associated with being in a new relationship."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You should mind your own business when it comes to your partner's relationships.\" entail, contradict, or has no relation to the sentence \"It is not advisable to get involved with a girl who has just broken up with her boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards getting involved in someone else's relationship, although the US norm is more generalized while the Chinese norm is more specific."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to be jealous about a partners past loves\" entail, contradict, or has no relation to the sentence \"It is not appropriate to mention your ex-girlfriend to the girl you are currently pursuing\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards mentioning a past love to current partners."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Families are expected to work out their problems with each other.\" entail, contradict, or has no relation to the sentence \"It is important to think from other people's perspective\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that family members should have understanding and compassion towards each other."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's normal to dislike a family member.\" entail, contradict, or has no relation to the sentence \"You will regret why you disliked her when she is gone\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more neutral attitude towards hating family members, while the Chinese norm expresses disapproval towards it."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's polite to ask other's opinion on what one should do.\" entail, contradict, or has no relation to the sentence \"It is not wise to make any decisions when you are in a confused state\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about politeness and respect for others, while the Chinese norm is about making wise decisions and avoiding rash decisions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Sometimes it makes sense to go no-contact with family members.\" entail, contradict, or has no relation to the sentence \"It is not polite to say that you dislike your sister\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. The US norm implies that it is okay to go no-contact with family members. The Chinese norm expresses disapproval towards expressing negative feelings towards family members, which is similar to no-contact rule with family members."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is normal to want to break up because of a negative interaction with a love interest.\" entail, contradict, or has no relation to the sentence \"It is not easy to make the decision to break up with your boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about the feeling of wanting to break up, while the Chinese norm is about the act itself."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to question someone's sexuality.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a girlfriend to question someone's sexuality\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards questioning someone's sexuality, so they are expressing similar attitudes."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's OK to not like a sibling.\" entail, contradict, or has no relation to the sentence \"It is appropriate to wish your sister a happy life even though you don't like her\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm expresses acceptability for a feeling, while the Chinese norm is about actions that arise because of that feeling."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to be upset with a partner that still communicates with her ex's.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to get angry with your girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expressing emotions in a relationship, while the Chinese norm is about respecting the boundaries of a relationship and not getting angry with a partner."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is expected to have trust in a relationship.\" entail, contradict, or has no relation to the sentence \"If you cannot accept your girlfriend's past, it is better to break up with her \"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards the situation. The US norm expresses disapproval towards lack of trust while the Chinese norm expresses disapproval towards not being able to accept the girlfriend's past."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's not okay to interrupt others.\" entail, contradict, or has no relation to the sentence \"It is not polite to refuse a gift from someone.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the right of others to speak without interruption, while the Chinese norm is about showing gratitude and politeness when receiving a gift."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"If your boyfriend is being mean it is acceptable to be angry at him.\" entail, contradict, or has no relation to the sentence \"It is not polite to confront directly your elders even when elders are wrong\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm expresses approval towards confronting a boyfriend when he is being mean, while the Chinese norm expresses disapproval towards confronting elders when they are wrong."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to not always get along with your girlfriend.\" entail, contradict, or has no relation to the sentence \"It is my fault if my girlfriend is angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more neutral attitude towards being mad at the girlfriend, while the Chinese norm expresses a more negative attitude (it is the boyfriend's fault if the girlfriend is mad)."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is rude to expect others to buy you things.\" entail, contradict, or has no relation to the sentence \"It is ungrateful to refuse a gift from your elders\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about etiquette and politeness, while the Chinese norm is about showing respect and appreciation for gifts from elders."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's wrong to hate your family.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to express hatred towards your elders and younger siblings\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards hating one's family members, although the US norm is more explicit in its disapproval."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is wrong to get mad at a friend trying to help.\" entail, contradict, or has no relation to the sentence \"It is better to confront your friend and express your anger instead of bottle it up\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. US norm approves of not getting mad or expressing your anger when a friend is trying to help, whereas the Chinese norm approves of seeking confrontation and expressingyour frustration."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't do something that would cause a sibling to hate you.\" entail, contradict, or has no relation to the sentence \"It is difficult to change your partner's parents.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about maintaining family relationships, while the Chinese norm is about the difficulty of changing the opinions of others."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's bad to put yourself in debt in order to help a friend.\" entail, contradict, or has no relation to the sentence \"It is not polite to ask for help from others all the time\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of asking for help from others all the time, implying that it is not a good thing to put yourself in debt in order to help a friend."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can be expected to communicate your desires to not have children to your partner.\" entail, contradict, or has no relation to the sentence \"It is okay to not want children, but this should be discussed before getting married\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the importance of communicating one's desires to not have children before marriage."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that couples should be civil towards each other.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to repeatedly do something that makes your girlfriend angry\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval of making your girlfriend upset."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is reasonable to be angry with your ex if they date your friend\" entail, contradict, or has no relation to the sentence \"It is not a good idea to date your friend's ex-boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards dating the ex's friend, albeit for different reasons. The US norm expresses disapproval because it is seen as a betrayal, while the Chinese norm expresses disapproval because of the potential negative outcomes."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's expected that someone who is in a relationship doesn't have friends of the opposite sex\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a man to be interested in a woman only because she is a \"consumable good\".\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about expectations in relationships, while the Chinese norm is about respecting women and not objectifying them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"If you don't know what to do, you should get some help.\" entail, contradict, or has no relation to the sentence \"It is okay to share your difficulties and grievances with your friends in order to encourage and listen to each other.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express approval towards seeking help from others when facing a difficult situation."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's okay to distance yourself from someone you love when they just want to be friends.\" entail, contradict, or has no relation to the sentence \"It is not appropriate for a man to tell a woman that he only wants to be friends with her if he is interested in dating her\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about individual choice and freedom in relationships, while the Chinese norm is about respecting social expectations and norms when it comes to dating."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is careless to give your boyfriend a gift they do not want.\" entail, contradict, or has no relation to the sentence \"It is appropriate to wish your loved ones on their birthdays.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about being thoughtful and considerate when giving gifts, while the Chinese norm is about expressing love and appreciation for family and friends on special occasions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't spend time with your friend's ex.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to date your friend's ex-boyfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express disapproval towards spending time with a friend's ex, though US norm disapproves of a relationship even if there is no romance involved."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Families are expected to work out their problems with each other.\" entail, contradict, or has no relation to the sentence \"It is not polite to ask somebody why they hate their mother.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about resolving conflicts within the family, while the Chinese norm is about respecting the privacy of others and not asking intrusive questions."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is okay to need personal space in a relationship.\" entail, contradict, or has no relation to the sentence \"It is not normal for a boyfriend to not talk to his girlfriend\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. US norm approves of needing space in a relationship, which means it approves of a boyfriend to not talk for a while to the partner, whereas Chinese norm expresses disapproval of this."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's allowed to resent your parents.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to say that you hate your father\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more positive attitude towards having resentful feelings towards parents, while the Chinese norm expresses disapproval."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"If you don't know what to do in your life, you should talk to friends and family about it.\" entail, contradict, or has no relation to the sentence \"Think carefully before you make a decision because it will affect your life\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about seeking advice from others, while the Chinese norm is about taking personal responsibility for decisions and considering the consequences."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It is normal to feel hatred towards your family members sometimes.\" entail, contradict, or has no relation to the sentence \"It is selfish to show your bad side to your family though they are intimate to you\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Contradiction. The US norm expresses a more understanding attitude towards feeling hatred towards family members, while the Chinese norm expresses disapproval."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't try to break up others.\" entail, contradict, or has no relation to the sentence \"It is better to break up with your boyfriend as soon as possible so that he won't be hurt\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about respecting the relationships of others, while the Chinese norm is about making decisions that are best for oneself."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You can't expect your partner to always be happy with you.\" entail, contradict, or has no relation to the sentence \"It is advisable to communicate with your girlfriend to find out the root cause of her anger\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms suggest that it is important to understand the underlying reasons for the girlfriend's anger, although the US norm does not explicitly state this."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"Marriage is expected to last.\" entail, contradict, or has no relation to the sentence \"It is better to try to work things out with your spouse before getting divorced\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "Entailment. Both norms express the idea that marriage should last and that couples should work through issues before resorting to divorce."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"It's good to reconcile with your partner.\" entail, contradict, or has no relation to the sentence \"It is not necessary to involve your girlfriend's parents in your marriage if they do not get along well\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about resolving conflicts in a relationship, while the Chinese norm is about the importance of involving family in marriage."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You really should respect your parents because they gave you life.\" entail, contradict, or has no relation to the sentence \"It is not appropriate to hate your parents\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about showing gratitude and appreciation for one's parents, while the Chinese norm is about not having negative feelings towards them."
+        }
+    },
+    {
+        "translation": {
+            "en1": "Does the sentence \"You shouldn't ask random people online if something is wrong with you.\" entail, contradict, or has no relation to the sentence \"It is okay to have different opinions with others.\"? Please answer between \"Entailment\", \"Contradiction\" or \"No Relation\" and explain your decision.",
+            "en2": "No Relation. The US norm is about online safety and avoiding potentially dangerous interactions, while the Chinese norm is about respecting the opinions of others and being open to different perspectives."
+        }
+    }
+]

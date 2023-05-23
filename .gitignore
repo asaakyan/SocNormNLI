@@ -1,0 +1,10 @@
+data/esnli_t5
+tmp/
+huggingface_models/
+t5-esnli/
+t5-socnli-batch2/
+t5-socnli-io/
+t5-socnli-ir_o/
+cache/
+eval_f1atThresh.csv
+eval_byclass.csv
